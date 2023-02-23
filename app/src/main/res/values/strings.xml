@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="del_note">Note deleted</string>
+    <string name="pin_note">Note pinned</string>
+    <string name="srch">Enter text to find: </string>
+    <string name="ttl_hint">Title: </string>
+    <string name="txt_hint">Enter note text: </string>
+    <string name="note_isEmpty">Please, enter description</string>
+    <string name="pinned">Added to Favourites</string>
+    <string name="unpinned">Deleted from Favourites</string>
+</resources>

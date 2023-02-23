@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="del_note">Заметка удалена</string>
+    <string name="pin_note">Заметка закреплена</string>
+    <string name="srch">Введите текст для поиска: </string>
+    <string name="ttl_hint">Заголовок: </string>
+    <string name="txt_hint">Введите текст заметки: </string>
+    <string name="note_isEmpty">Пожалуйста, добавьте описание</string>
+    <string name="pinned">Заметка добавлена в Избранное</string>
+    <string name="unpinned">Заметка удалена из Избранного</string>
+</resources>
