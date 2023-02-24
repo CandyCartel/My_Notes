@@ -9,4 +9,6 @@
     <string name="note_isEmpty">Пожалуйста, добавьте описание</string>
     <string name="pinned">Заметка добавлена в Избранное</string>
     <string name="unpinned">Заметка удалена из Избранного</string>
+    <string name="pin_menu">Добавить/удалить из избранного</string>
+    <string name="delete_menu">Удалить</string>
 </resources>
