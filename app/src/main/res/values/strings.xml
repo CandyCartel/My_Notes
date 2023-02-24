@@ -8,4 +8,6 @@
     <string name="note_isEmpty">Please, enter description</string>
     <string name="pinned">Added to Favourites</string>
     <string name="unpinned">Deleted from Favourites</string>
+    <string name="pin_menu">Pin/Unpin</string>
+    <string name="delete_menu">Delete</string>
 </resources>
